@@ -11,12 +11,12 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <h3>1. Copias el código.<img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="20"> </h3><br>
 * Pegas tu sentencia o script en un cuadro de texto del programa.<br>
 <br>
-2. <h3>Seleccionas la ventana de destino.Copias el código.<img src="https://cdn-icons-png.flaticon.com/512/0/656.png" width="20"></h3><br>
+<h3>2.Seleccionas la ventana de destino <img src="https://cdn-icons-png.flaticon.com/512/0/656.png" width="20"></h3><br>
 * Por ejemplo, CMD, PowerShell, una terminal de Kali por SSH o un editor de código.<br>
 <br>
 <br>    
 * 
-3. El programa escribe el contenido.<br>
+3. <h3>El programa escribe el contenido.</h3><br>
 * Simula la escritura del teclado, carácter por carácter, con una velocidad configurable y sin necesidad de pegar.<br>
 <br>
 <br>
