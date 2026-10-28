@@ -15,7 +15,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 * Por ejemplo, CMD, PowerShell, una terminal de Kali por SSH o un editor de código.<br>
 <br>    
 <h3>3. El programa escribe el contenido <img src="https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-hand-typing-vector-icon-logo-design-keyboard-computer-minimal-illustration-of-png-image_6687078.png" width="40"></h3>
-* Simula la escritura del teclado, carácter por carácter, con una velocidad configurable y sin necesidad de pegar.<br>
+* Simula la escritura del teclado, carácter por carácter, con una velocidad configurable.<br>
 <br>
 * Superposición de video.<br>
 * Comparación lado a lado.<br>
