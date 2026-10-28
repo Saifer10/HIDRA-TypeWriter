@@ -11,7 +11,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <h3>1. Copias el código.<img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="20"> </h3><br>
 * Pegas tu sentencia o script en un cuadro de texto del programa.<br>
 <br>
-2. Seleccionas la ventana de destino.<br>
+2. <h3>Seleccionas la ventana de destino.Copias el código.<img src="https://cdn-icons-png.flaticon.com/512/0/656.png" width="20"></h3><br>
 * Por ejemplo, CMD, PowerShell, una terminal de Kali por SSH o un editor de código.<br>
 <br>
 <br>    
