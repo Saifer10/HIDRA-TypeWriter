@@ -8,7 +8,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <br>
 * ¿Cómo funcionaría el programa?.<br>
 <br>
-<h2><img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="30">1. Copias el código.</h2><br>
+<h2><img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="30"> 1. Copias el código.</h2><br>
 * Pegas tu sentencia o script en un cuadro de texto del programa.<br>
 <br>
 2. Seleccionas la ventana de destino.<br>
