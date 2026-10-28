@@ -16,7 +16,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <br>
 <br>    
 * 
-3. <h3>El programa escribe el contenido <img src="https://www.shutterstock.com/image-vector/keyboard-typing-icon-line-design-260nw-2641699051.jpg" width="20"></h3><br>
+<h3>3.El programa escribe el contenido <img src="https://www.shutterstock.com/image-vector/keyboard-typing-icon-line-design-260nw-2641699051.jpg" width="40"></h3><br>
 * Simula la escritura del teclado, carácter por carácter, con una velocidad configurable y sin necesidad de pegar.<br>
 <br>
 <br>
