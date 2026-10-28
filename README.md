@@ -1,23 +1,7 @@
-Esta herramienta esta hecha para Windows, para romper las limitaciones donde no se puede copiar codigo y se requiere de escribir el script.
-editara la sentencia copiada donde se coloque el cursor. dentro de este repositorio tendremos algunos script ofensivos puede copiar para ser ejecutados por "HIDRA-TypeWrite".
-
-<Cómo funcionaría el programa>
-
-1. Copias el código
-
-Pegas tu sentencia o script en un cuadro de texto del programa.
 
 
 
 
-2. Seleccionas la ventana de destino
-
-Por ejemplo, CMD, PowerShell, una terminal de Kali por SSH o un editor de código.
-
-
-
-
-3. El programa escribe el contenido
 
 Simula la escritura del teclado, carácter por carácter, con una velocidad configurable y sin necesidad de pegar.
 
@@ -29,17 +13,20 @@ Simula la escritura del teclado, carácter por carácter, con una velocidad conf
 Esta herramienta esta hecha para Windows, para romper las limitaciones donde no se puede copiar codigo y se requiere de escribir el script.
 editara la sentencia copiada donde se coloque el cursor. dentro de este repositorio tendremos algunos script ofensivos puede copiar para ser ejecutados por "HIDRA-TypeWrite".:<br>
 <br>
-* Análisis de autenticidad.<br>
-* Detección de posibles manipulaciones.<br>
-* Análisis cuadro por cuadro.<br>
-* Identificación de frames duplicados<br>
-* Extracción de fotogramas.<br>
-* Análisis de artefactos.<br>
-* Estabilización.<br>
-* Corrección de iluminación.<br>
-* Mejora de detalles.
-* Detección visual de inconsistencias.<br>
-* Comparación entre material original y procesado.<br>
+* ¿Cómo funcionaría el programa?.<br>
+<br>
+* 1. Copias el código.<br>
+* Pegas tu sentencia o script en un cuadro de texto del programa.<br>
+<br>
+* 2. Seleccionas la ventana de destino.<br>
+* Por ejemplo, CMD, PowerShell, una terminal de Kali por SSH o un editor de código.<br>
+<br>
+<br>    
+* 
+3. El programa escribe el contenido.<br>
+* Simula la escritura del teclado, carácter por carácter, con una velocidad configurable y sin necesidad de pegar.<br>
+<br>
+<br>
 * Superposición de video.<br>
 * Comparación lado a lado.<br>
 * Sustracción de cambios entre original y resultado.<br>
@@ -55,18 +42,7 @@ Por medio del archivo <strong>install_ReconForensics.sh</strong> se instalan las
 <p>Ejecución del archivo install_ReconForensic.sh:</p>
 <pre><code>bash install_ReconForensic.sh</code></pre>
 El archivo <strong>Install_ReconForensics</strong> debe instalar los siguientes dependencias<br>
-<br>
-    *  python3.<br> 
-    *  python3-venv.<br>
-    *  python3-tk.<br>
-    *  python3-opencv.<br>
-    *  python3-numpy.<br>
-    *  python3-pil.<br>
-    *  ffmpeg.<br>
-    *  ediainfo.<br>
-    *  libimage-exiftool-perl.<br>
-    *  hashdeep.<br>
-<br>
+
 Una vez instalado las dependencias se otorga permisos a el archivo python <strong>ReconForensic_GUI_v1.py</strong>
 <pre><code> chmod +x ReconForensic_GUI_v1.py</code></pre>
 <p><strong>Ejecución del archivo ReconForensic_GUI_v1.py</strong>:</p>
