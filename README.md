@@ -17,7 +17,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <h3>3. El programa escribe el contenido <img src="https://png.pngtree.com/png-vector/20230407/ourmid/pngtree-hand-typing-vector-icon-logo-design-keyboard-computer-minimal-illustration-of-png-image_6687078.png" width="40"></h3>
 * Simula la escritura del teclado, carácter por carácter, con una velocidad configurable.<br>
 <br>
-Algunos de los escenarios donde existen restricciones son la consola de navegacion de los motores de busqueda, donde es necesario escribir de forma manual las sentencias.<br>
+Algunos de los escenarios donde existen restricciones y esta relacionado con inspector de los motores de busqueda "G0ogL3_Chr0m3" son la consola de navegacion, donde es necesario escribir de forma manual las sentencias.<br>
 <img src="https://developer.chrome.com/static/docs/devtools/console/image/the-console-panel-dc4828392d194.png?hl=es-419" width="700">
 <br>
 <br>
