@@ -8,10 +8,11 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <br>
 * ¿Cómo funcionaría el programa?.<br>
 <br>
-* 1. Copias el código.<br>
+<img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="40">
+1. Copias el código.<br>
 * Pegas tu sentencia o script en un cuadro de texto del programa.<br>
 <br>
-* 2. Seleccionas la ventana de destino.<br>
+2. Seleccionas la ventana de destino.<br>
 * Por ejemplo, CMD, PowerShell, una terminal de Kali por SSH o un editor de código.<br>
 <br>
 <br>    
