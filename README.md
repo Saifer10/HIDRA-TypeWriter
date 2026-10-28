@@ -25,7 +25,7 @@ Simula la escritura del teclado, carácter por carácter, con una velocidad conf
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-   <h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKp1bw03GMEH6TawkZwi6Zhl2oqgRewamLxsXhrH2Gw&s=10" width="40">HIDRA-TypeWrite (version 1.0)</h1>
+   <h1><img src="https://png.pngtree.com/png-vector/20191113/ourlarge/pngtree-keyboard-icon-design-vector-png-image_1985655.jpg" width="40">HIDRA-TypeWrite (version 1.0)</h1>
 Esta herramienta esta hecha para Windows, para romper las limitaciones donde no se puede copiar codigo y se requiere de escribir el script.
 editara la sentencia copiada donde se coloque el cursor. dentro de este repositorio tendremos algunos script ofensivos puede copiar para ser ejecutados por "HIDRA-TypeWrite".:<br>
 <br>
