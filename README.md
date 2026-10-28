@@ -18,7 +18,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 * Simula la escritura del teclado, carácter por carácter, con una velocidad configurable.<br>
 <br>
 Algunos de los escenarios donde existen restricciones son la consola de navegacion de los motores de busqueda, donde es necesario escribir de forma manual las sentencias.<br>
-<img src="https://developer.chrome.com/static/docs/devtools/console/image/the-console-panel-dc4828392d194.png?hl=es-419" width="180">
+<img src="https://developer.chrome.com/static/docs/devtools/console/image/the-console-panel-dc4828392d194.png?hl=es-419" width="300">
 <br>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEMIi_JfBTrxIuN4GuDfbFAx4O1EvKtXTYcykS9L2dw&s=10" width="100"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="90"><br>
