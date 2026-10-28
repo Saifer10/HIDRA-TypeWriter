@@ -8,7 +8,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <br>
 * ¿Cómo funcionaría el programa?.<br>
 <br>
-<h3>1. Copias el código.<img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="20"> </h3><br>
+<h3>1. Copias el código  <img src="https://cdn-icons-png.flaticon.com/512/59/59118.png" width="20"> </h3><br>
 * Pegas tu sentencia o script en un cuadro de texto del programa.<br>
 <br>
 <h3>2.Seleccionas la ventana de destino <img src="https://cdn-icons-png.flaticon.com/512/0/656.png" width="20"></h3><br>
@@ -16,7 +16,7 @@ editara la sentencia copiada donde se coloque el cursor. dentro de este reposito
 <br>
 <br>    
 * 
-3. <h3>El programa escribe el contenido.</h3><br>
+3. <h3>El programa escribe el contenido <img src="https://www.shutterstock.com/image-vector/keyboard-typing-icon-line-design-260nw-2641699051.jpg" width="20"></h3><br>
 * Simula la escritura del teclado, carácter por carácter, con una velocidad configurable y sin necesidad de pegar.<br>
 <br>
 <br>
